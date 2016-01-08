@@ -6,4 +6,4 @@ Version 0.0.1
 
 This repo is intended for documentation pertaining to Zatobo in general as well as help and getting started files.
 Currently all files are under construction and should not be considered useable.
-Please also check the [github.com/zatobo/1st_Read_Me/wiki](wiki) and [zatobo.wordpress.com](home page) for more information.
+Please also check the [wiki](github.com/zatobo/1st_Read_Me/wiki) and [home page](zatobo.wordpress.com) for more information.
